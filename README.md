@@ -1,6 +1,6 @@
 # Template
 This is a sandbox for me to experiment with repo and project setup.
 
-#Contents
+## Contents
 - Bug and Feature templates
 - 
